@@ -1,4 +1,4 @@
 # API_Python
 
-(/Instructions/Code/plot_1.png)
+![Hello](/Instructions/Code/plot_1.png)
 
