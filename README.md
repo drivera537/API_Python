@@ -1,3 +1,3 @@
 # API_Python
 
-![alt text](/Code/plot_1.png)
+![alt_text](Instruction/Code/plot_1.png)
